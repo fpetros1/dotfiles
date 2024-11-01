@@ -25,3 +25,6 @@
 [submodule "starship/.config"]
 	path = starship/.config
 	url = git@github.com:fpetros1/starship.git
+[submodule "plasma-workspace/.config/plasma-workspace/env"]
+	path = plasma-workspace/.config/plasma-workspace/env
+	url = git@github.com:fpetros1/plasma-workspace.git
