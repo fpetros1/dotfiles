@@ -19,3 +19,6 @@
 [submodule "wezterm/.config/wezterm"]
 	path = wezterm/.config/wezterm
 	url = git@github.com:fpetros1/wezterm.git
+[submodule "nushell/.config/nushell"]
+	path = nushell/.config/nushell
+	url = git@github.com:fpetros1/nushell.git
