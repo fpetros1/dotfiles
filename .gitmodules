@@ -16,3 +16,6 @@
 [submodule "bat/.config/bat"]
 	path = bat/.config/bat
 	url = git@github.com:fpetros1/bat.git
+[submodule "wezterm/.config/wezterm"]
+	path = wezterm/.config/wezterm
+	url = git@github.com:fpetros1/wezterm.git
