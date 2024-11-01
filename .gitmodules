@@ -28,3 +28,6 @@
 [submodule "plasma-workspace/.config/plasma-workspace/env"]
 	path = plasma-workspace/.config/plasma-workspace/env
 	url = git@github.com:fpetros1/plasma-workspace.git
+[submodule "dash"]
+	path = dash
+	url = git@github.com:fpetros1/dash.git
