@@ -1,0 +1,18 @@
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:fpetros1/nvim.git
+[submodule "tmux/.config/tmux"]
+	path = tmux/.config/tmux
+	url = git@github.com:fpetros1/tmux.git
+[submodule "fish/.config/fish"]
+	path = fish/.config/fish
+	url = git@github.com:fpetros1/fish.git
+[submodule "zsh/.config/zsh"]
+	path = zsh/.config/zsh
+	url = git@github.com:fpetros1/zsh.git
+[submodule "scripts/.scripts"]
+	path = scripts/.scripts
+	url = git@github.com:fpetros1/scripts.git
+[submodule "bat/.config/bat"]
+	path = bat/.config/bat
+	url = git@github.com:fpetros1/bat.git
