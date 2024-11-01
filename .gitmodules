@@ -22,3 +22,6 @@
 [submodule "nushell/.config/nushell"]
 	path = nushell/.config/nushell
 	url = git@github.com:fpetros1/nushell.git
+[submodule "starship/.config"]
+	path = starship/.config
+	url = git@github.com:fpetros1/starship.git
