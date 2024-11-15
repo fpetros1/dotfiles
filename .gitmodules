@@ -31,3 +31,6 @@
 [submodule "dash"]
 	path = dash
 	url = git@github.com:fpetros1/dash.git
+[submodule "zed/.config/zed"]
+	path = zed/.config/zed
+	url = git@github.com:fpetros1/zed.git
